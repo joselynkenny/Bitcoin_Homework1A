@@ -1,0 +1,70 @@
+{
+    "take1.mp4": [
+        {
+            "start_frame": "60",
+            "end_frame": "86",
+            "action_type": "click",
+            "down_coordinate": [ 21.346874999999986, 8.749999999999998],
+            "up_coordinate": [ 21.346874999999986, 8.749999999999998],
+            "type_word": null
+        },
+        {
+            "start_frame": "87",
+            "end_frame": "304",
+            "action_type": "type",
+            "down_coordinate": null,
+            "up_coordinate": null,
+            "type_word": "衣服"
+        },
+        {
+            "start_frame": "376",
+            "end_frame": "409",
+            "action_type": "swipe",
+            "down_coordinate": [ 37.385416666666366, 43.25641025641024],
+            "up_coordinate": [ 37.385416666665996, 45.49999999999998],
+            "type_word": null
+        },        
+        {
+            "start_frame": "500",
+            "end_frame": "552",
+            "action_type": "click",
+            "down_coordinate": [ 74.32812499999999, 43.99999999999999],
+            "up_coordinate": [ 74.32812499999999, 43.99999999999999],
+            "type_word": null
+        }
+    ],
+    "take2.mp4" : [
+        {
+            "start_frame": "46",
+            "end_frame": "254",
+            "action_type": "swipe",
+            "down_coordinate": [ 38.466666666666654, 23.333333333333332],
+            "up_coordinate": [ 38.4666666666663, 43.66666666666666],
+            "type_word": null
+        },
+        {
+            "start_frame": "252",
+            "end_frame": "285",
+            "action_type": "click",
+            "down_coordinate": [ 28.555208333333318, 26.166666666666664],
+            "up_coordinate": [ 28.555208333333318, 26.166666666666664],
+            "type_word": null
+        },
+        {
+            "start_frame": "343",
+            "end_frame": "355",
+            "action_type": "type",
+            "down_coordinate": [ 35.943749999999994, 25.83333333333333],
+            "up_coordinate": [ 35.94374999999979, 33.166666666666664],
+            "type_word": null
+        },        
+        {
+            "start_frame": "406",
+            "end_frame": "415",
+            "action_type": "click",
+            "down_coordinate": [ 7.110416666666654, 8.166666666666666],
+            "up_coordinate": [ 7.110416666666654, 8.166666666666666],
+            "type_word": null
+        }
+    ]
+}
